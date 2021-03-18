@@ -6,7 +6,7 @@ A pomodoro timer is a timer which allows you to work while the timer is running,
 
 This online app includes a timer, break, white noises and lofi hip-hop beats to help you focus. The settings are fully customisable.
 
-[![button](launchbutton.png)](https://freefocus.web.app/)
+[![button](assets/launchbutton.png)](https://freefocus.web.app/)
 
 ⠀
 
